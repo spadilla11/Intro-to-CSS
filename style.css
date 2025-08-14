@@ -1,0 +1,70 @@
+body {
+    background-color: rgb(183, 149, 108);
+}
+
+h1 {
+    color: rgb(86, 40, 19);
+}
+
+interest{
+    color: rgb(130, 86, 54);
+}
+
+#about-me{
+    color: rgb(102, 60, 30);
+}
+
+p{
+    font-family:'Gill Sans MT';
+    color: wheat;
+    padding-left: 1%;
+    padding-right: 2%;
+}
+
+h3{
+    font-family: Georgia;
+    font-weight: bold;
+    color: rgb(130, 86, 54);
+}
+
+table{
+    border-style: double;
+    border-radius: 0.4cm;
+    border-color: rgb(86, 40, 19);;
+    color: rgb(234, 218, 200);
+    padding-bottom: 0.5%;
+    margin-bottom: 10%;
+}
+
+#activity{
+    color: rgb(86, 40, 19);
+}
+
+#time{
+    color: rgb(86, 40, 19);
+}
+
+#table-heading{
+    color: rgb(86, 40, 19);
+    font-weight: bold;
+    padding-top: 10%;
+}
+
+hobbies, movies{
+    color: wheat;
+}
+
+
+.hobbies-list{
+    color: wheat;
+}
+
+.movies-list{
+    color: wheat;
+}
+
+
+
+
+
+
